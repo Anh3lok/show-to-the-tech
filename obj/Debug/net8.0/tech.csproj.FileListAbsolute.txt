@@ -1,0 +1,14 @@
+C:\Users\aircomp\Documents\cisharp\tech\tech\bin\Debug\net8.0\tech.exe
+C:\Users\aircomp\Documents\cisharp\tech\tech\bin\Debug\net8.0\tech.deps.json
+C:\Users\aircomp\Documents\cisharp\tech\tech\bin\Debug\net8.0\tech.runtimeconfig.json
+C:\Users\aircomp\Documents\cisharp\tech\tech\bin\Debug\net8.0\tech.dll
+C:\Users\aircomp\Documents\cisharp\tech\tech\bin\Debug\net8.0\tech.pdb
+C:\Users\aircomp\Documents\cisharp\tech\tech\obj\Debug\net8.0\tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aircomp\Documents\cisharp\tech\tech\obj\Debug\net8.0\tech.AssemblyInfoInputs.cache
+C:\Users\aircomp\Documents\cisharp\tech\tech\obj\Debug\net8.0\tech.AssemblyInfo.cs
+C:\Users\aircomp\Documents\cisharp\tech\tech\obj\Debug\net8.0\tech.csproj.CoreCompileInputs.cache
+C:\Users\aircomp\Documents\cisharp\tech\tech\obj\Debug\net8.0\tech.dll
+C:\Users\aircomp\Documents\cisharp\tech\tech\obj\Debug\net8.0\refint\tech.dll
+C:\Users\aircomp\Documents\cisharp\tech\tech\obj\Debug\net8.0\tech.pdb
+C:\Users\aircomp\Documents\cisharp\tech\tech\obj\Debug\net8.0\tech.genruntimeconfig.cache
+C:\Users\aircomp\Documents\cisharp\tech\tech\obj\Debug\net8.0\ref\tech.dll
